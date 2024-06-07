@@ -17,7 +17,7 @@ from whiterock.agents import due_diligence_agent, principal_investor
 whiterock = WhiteRock(
     agents=[due_diligence_agent, principal_investor],
     max_loops=5,
-    phone_number="+16505188709",  ##+19729719060",
+    phone_number="+18005550100",  ##+18005550100",
     phone_call_duration=160,
 )
 
